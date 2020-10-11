@@ -120,7 +120,7 @@ h6 {
 }
 
 #header.header-fixed {
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  background: linear-gradient(45deg, #ffffff, #ffffffe1);
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
@@ -261,6 +261,9 @@ h6 {
   }
 }
 
+ul {
+  color: black;
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
