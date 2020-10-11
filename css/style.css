@@ -9,13 +9,13 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #666666;
+  color: #ac0f0f;
   font-family: "Open Sans", sans-serif;
   overflow-x: hidden;
 }
 
 a {
-  color: #1dc8cd;
+  color: #3fa831;
   transition: 0.5s;
 }
 
@@ -134,7 +134,7 @@ h6 {
   height: 100vh;
   background: linear-gradient(
       45deg,
-      rgba(29, 224, 153, 0.8),
+      rgba(123, 224, 29, 0.8),
       rgba(29, 200, 205, 0.8)
     ),
     url("../img/intro-bg.jpg") center top no-repeat;
@@ -341,7 +341,7 @@ li a {
   padding: 0 8px 10px 8px;
   text-decoration: none;
   display: inline-block;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 14px;
@@ -365,7 +365,7 @@ li a {
 
 .nav-menu ul li a {
   padding: 10px;
-  color: #333;
+  color: rgb(0, 0, 0);
   transition: 0.3s;
   display: block;
   font-size: 13px;
