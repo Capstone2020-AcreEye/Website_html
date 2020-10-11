@@ -237,7 +237,7 @@ h6 {
 #intro .product-screens .product-screen-2 {
   position: absolute;
   z-index: 20;
-  left: 40px;
+  right: 90px;
   bottom: 0;
   top: 30px;
 }
@@ -247,7 +247,8 @@ h6 {
   z-index: 10;
   left: calc(50% - 374px);
   bottom: 0;
-  top: 30px;
+  top: 3px;
+  padding-left: 70px;
 }
 
 @media (max-width: 767px) {
