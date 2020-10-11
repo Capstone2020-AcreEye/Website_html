@@ -112,8 +112,9 @@ h6 {
 
 #header.header-fixed {
   background: linear-gradient(45deg, #ffffff, #ffffffe1);
-  padding: 20px 0;
+  padding: 0;
   padding-top: 40px;
+  padding-left: 540px;
   height: 110px;
   transition: all 0.5s;
 }
