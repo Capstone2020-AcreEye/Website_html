@@ -1,15 +1,6 @@
 jQuery(document).ready(function ($) {
   // Header fixed and Back to top button
   $("#header").addClass("header-fixed");
-  // $(window).scroll(function () {
-  //   if ($(this).scrollTop() > 100) {
-  //     $(".back-to-top").fadeIn("slow");
-
-  //   } else {
-  //     $(".back-to-top").fadeOut("slow");
-  //     $("#header").removeClass("header-fixed");
-  //   }
-  // });
 
   if ($(this).scrollTop() > 100) {
     $(".back-to-top").fadeIn("slow");
